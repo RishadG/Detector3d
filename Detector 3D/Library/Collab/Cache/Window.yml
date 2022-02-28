@@ -189,11 +189,18 @@ MonoBehaviour:
     - Assets/_game/Scripts/TouchControls.cs.meta
     - Assets/_game/Scripts/TouchControls.inputactions
     - Assets/_game/Scripts/TouchControls.inputactions.meta
+    - Assets/_game/Scripts/switch_rifle.cs
+    - Assets/_game/Scripts/switch_rifle.cs.meta
     - Assets/_game/Skeleton_animation.meta
     - Assets/_game/Skeleton_animation/skeleton_head.anim
     - Assets/_game/Skeleton_animation/skeleton_head.anim.meta
     - Assets/_game/Skeleton_animation/spine_004.controller
     - Assets/_game/Skeleton_animation/spine_004.controller.meta
+    - Assets/_game/rifle_animation.meta
+    - Assets/_game/rifle_animation/rifle.anim
+    - Assets/_game/rifle_animation/rifle.anim.meta
+    - Assets/_game/rifle_animation/rifle_anim.controller
+    - Assets/_game/rifle_animation/rifle_anim.controller.meta
     - Assets/_game/room2_Mat.meta
     - Assets/_game/room2_Mat/red.mat
     - Assets/_game/room2_Mat/red.mat.meta
@@ -217,7 +224,7 @@ MonoBehaviour:
     - ProjectSettings/EditorSettings.asset
     - ProjectSettings/ProjectSettings.asset
     - 
-    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
