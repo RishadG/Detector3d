@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Animating.cs
+    - Assets/Animating.cs.meta
+    - Assets/FlatKit/PresetsShared.meta
+    - Assets/FlatKit/PresetsShared/Materials.meta
+    - Assets/FlatKit/PresetsShared/Materials/BlackEdge01__StylSurf_None_Rim.mat
+    - Assets/FlatKit/PresetsShared/Materials/BlackEdge01__StylSurf_None_Rim.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/CelWithRim01__StylSurf_Single_ExCel_Spec_Rim.mat
+    - Assets/FlatKit/PresetsShared/Materials/CelWithRim01__StylSurf_Single_ExCel_Spec_Rim.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/CelWithRim02__StylSurf_Single_ExCel_Spec_Rim.mat
+    - Assets/FlatKit/PresetsShared/Materials/CelWithRim02__StylSurf_Single_ExCel_Spec_Rim.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/DarkPaleWhiteRim__StylSurf_Single_Rim.mat
+    - Assets/FlatKit/PresetsShared/Materials/DarkPaleWhiteRim__StylSurf_Single_Rim.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/GlassLook01__StylSurf_Single_Spec.mat
+    - Assets/FlatKit/PresetsShared/Materials/GlassLook01__StylSurf_Single_Spec.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/LacquerBlack__StylSurf_Single_ExCel_Spec_Rim.mat
+    - Assets/FlatKit/PresetsShared/Materials/LacquerBlack__StylSurf_Single_ExCel_Spec_Rim.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/LacquerGray__StylSurf_Single_ExCel_Spec_Rim
+      1.mat
+    - Assets/FlatKit/PresetsShared/Materials/LacquerGray__StylSurf_Single_ExCel_Spec_Rim
+      1.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/MatteBronze__StylSurf_Single_Spec_Rim_HGrad.mat
+    - Assets/FlatKit/PresetsShared/Materials/MatteBronze__StylSurf_Single_Spec_Rim_HGrad.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/MatteGradient_StylSurf_None_HGrad.mat
+    - Assets/FlatKit/PresetsShared/Materials/MatteGradient_StylSurf_None_HGrad.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/Metallic01__StylSurf_Single_ExtraC_Spec.mat
+    - Assets/FlatKit/PresetsShared/Materials/Metallic01__StylSurf_Single_ExtraC_Spec.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/Metallic02__StylSurf_Single_ExtraC_Spec_Rim.mat
+    - Assets/FlatKit/PresetsShared/Materials/Metallic02__StylSurf_Single_ExtraC_Spec_Rim.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/Metallic03__StylSurf_Single_ExCel_Spec_Rim.mat
+    - Assets/FlatKit/PresetsShared/Materials/Metallic03__StylSurf_Single_ExCel_Spec_Rim.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/MetallicRim01__StylSurf_None_Rim.mat
+    - Assets/FlatKit/PresetsShared/Materials/MetallicRim01__StylSurf_None_Rim.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/ShinyPlastic01__StylSurf_Spec_Rim.mat
+    - Assets/FlatKit/PresetsShared/Materials/ShinyPlastic01__StylSurf_Spec_Rim.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/SimpleCel01_StylSurf_Single.mat
+    - Assets/FlatKit/PresetsShared/Materials/SimpleCel01_StylSurf_Single.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/SmoothExtraCel__StylSurf_ExtraC_Spec.mat
+    - Assets/FlatKit/PresetsShared/Materials/SmoothExtraCel__StylSurf_ExtraC_Spec.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/SmoothPcycho01__StylSurf_Single_ExCel_Rim.mat
+    - Assets/FlatKit/PresetsShared/Materials/SmoothPcycho01__StylSurf_Single_ExCel_Rim.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/SmoothPcycho02__StylSurf_Single_ExCel_Spec_Rim.mat
+    - Assets/FlatKit/PresetsShared/Materials/SmoothPcycho02__StylSurf_Single_ExCel_Spec_Rim.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/SmoothPcycho03__StylSurf_Single_ExCel_Spec_Rim.mat
+    - Assets/FlatKit/PresetsShared/Materials/SmoothPcycho03__StylSurf_Single_ExCel_Spec_Rim.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/SmoothRim01__StylSurf_None_Rim.mat
+    - Assets/FlatKit/PresetsShared/Materials/SmoothRim01__StylSurf_None_Rim.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/SmoothRim02__StylSurf_None_Rim.mat
+    - Assets/FlatKit/PresetsShared/Materials/SmoothRim02__StylSurf_None_Rim.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/Toon01__StylSurf_Single.mat
+    - Assets/FlatKit/PresetsShared/Materials/Toon01__StylSurf_Single.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/Toon02__StylSurf_Single_ExtraC_Spec.mat
+    - Assets/FlatKit/PresetsShared/Materials/Toon02__StylSurf_Single_ExtraC_Spec.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/ToonBlurry__StylSurf_Single_HGrad.mat
+    - Assets/FlatKit/PresetsShared/Materials/ToonBlurry__StylSurf_Single_HGrad.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/ToonSubtle__StylSurf_Single.mat
+    - Assets/FlatKit/PresetsShared/Materials/ToonSubtle__StylSurf_Single.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/TwoColorVasePreset01.mat
+    - Assets/FlatKit/PresetsShared/Materials/TwoColorVasePreset01.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/TwoColorVasePreset02.mat
+    - Assets/FlatKit/PresetsShared/Materials/TwoColorVasePreset02.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/TwoColorVasePreset03.mat
+    - Assets/FlatKit/PresetsShared/Materials/TwoColorVasePreset03.mat.meta
+    - Assets/FlatKit/PresetsShared/Materials/WhiteWithBlackRim__StylSurf_Single_Spec_Rim.mat
+    - Assets/FlatKit/PresetsShared/Materials/WhiteWithBlackRim__StylSurf_Single_Spec_Rim.mat.meta
+    - Assets/FlatKit/PresetsShared/Presets.meta
+    - Assets/FlatKit/PresetsShared/Presets/BlackEdge01__StylSurf_None_Rim.preset
+    - Assets/FlatKit/PresetsShared/Presets/BlackEdge01__StylSurf_None_Rim.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/CelWithRim01__StylSurf_Single_ExCel_Spec_Rim.preset
+    - Assets/FlatKit/PresetsShared/Presets/CelWithRim01__StylSurf_Single_ExCel_Spec_Rim.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/CelWithRim02__StylSurf_Single_ExCel_Spec_Rim.preset
+    - Assets/FlatKit/PresetsShared/Presets/CelWithRim02__StylSurf_Single_ExCel_Spec_Rim.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/DarkPaleWhiteRim__StylSurf_Single_Rim.preset
+    - Assets/FlatKit/PresetsShared/Presets/DarkPaleWhiteRim__StylSurf_Single_Rim.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/GlassLook01__StylSurf_Single_Spec.preset
+    - Assets/FlatKit/PresetsShared/Presets/GlassLook01__StylSurf_Single_Spec.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/LacquerBlack__StylSurf_Single_ExCel_Spec_Rim.preset
+    - Assets/FlatKit/PresetsShared/Presets/LacquerBlack__StylSurf_Single_ExCel_Spec_Rim.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/LacquerGray__StylSurf_Single_ExCel_Spec_Rim.preset
+    - Assets/FlatKit/PresetsShared/Presets/LacquerGray__StylSurf_Single_ExCel_Spec_Rim.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/MatteBronze__StylSurf_Single_Spec_Rim_HGrad.preset
+    - Assets/FlatKit/PresetsShared/Presets/MatteBronze__StylSurf_Single_Spec_Rim_HGrad.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/MatteGradient_StylSurf_None_HGrad.preset
+    - Assets/FlatKit/PresetsShared/Presets/MatteGradient_StylSurf_None_HGrad.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/Metallic01__StylSurf_Single_ExtraC_Spec.preset
+    - Assets/FlatKit/PresetsShared/Presets/Metallic01__StylSurf_Single_ExtraC_Spec.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/Metallic02__StylSurf_Single_ExtraC_Spec_Rim.preset
+    - Assets/FlatKit/PresetsShared/Presets/Metallic02__StylSurf_Single_ExtraC_Spec_Rim.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/Metallic03__StylSurf_Single_ExCel_Spec_Rim.preset
+    - Assets/FlatKit/PresetsShared/Presets/Metallic03__StylSurf_Single_ExCel_Spec_Rim.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/MetallicRim01__StylSurf_None_Rim.preset
+    - Assets/FlatKit/PresetsShared/Presets/MetallicRim01__StylSurf_None_Rim.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/ShinyPlastic01__StylSurf_Spec_Rim.preset
+    - Assets/FlatKit/PresetsShared/Presets/ShinyPlastic01__StylSurf_Spec_Rim.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/SimpleCel01_StylSurf_Single.preset
+    - Assets/FlatKit/PresetsShared/Presets/SimpleCel01_StylSurf_Single.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/SmoothExtraCel__StylSurf_ExtraC_Spec.preset
+    - Assets/FlatKit/PresetsShared/Presets/SmoothExtraCel__StylSurf_ExtraC_Spec.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/SmoothPcycho01__StylSurf_Single_ExCel_Rim.preset
+    - Assets/FlatKit/PresetsShared/Presets/SmoothPcycho01__StylSurf_Single_ExCel_Rim.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/SmoothPcycho02__StylSurf_Single_ExCel_Spec_Rim.preset
+    - Assets/FlatKit/PresetsShared/Presets/SmoothPcycho02__StylSurf_Single_ExCel_Spec_Rim.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/SmoothPcycho03__StylSurf_Single_ExCel_Spec_Rim.preset
+    - Assets/FlatKit/PresetsShared/Presets/SmoothPcycho03__StylSurf_Single_ExCel_Spec_Rim.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/SmoothRim01__StylSurf_None_Rim.preset
+    - Assets/FlatKit/PresetsShared/Presets/SmoothRim01__StylSurf_None_Rim.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/SmoothRim02__StylSurf_None_Rim.preset
+    - Assets/FlatKit/PresetsShared/Presets/SmoothRim02__StylSurf_None_Rim.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/Toon01__StylSurf_Single.preset
+    - Assets/FlatKit/PresetsShared/Presets/Toon01__StylSurf_Single.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/Toon02__StylSurf_Single_ExtraC_Spec.preset
+    - Assets/FlatKit/PresetsShared/Presets/Toon02__StylSurf_Single_ExtraC_Spec.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/ToonBlurry__StylSurf_Single_HGrad.preset
+    - Assets/FlatKit/PresetsShared/Presets/ToonBlurry__StylSurf_Single_HGrad.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/ToonSubtle__StylSurf_Single.preset
+    - Assets/FlatKit/PresetsShared/Presets/ToonSubtle__StylSurf_Single.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/TwoColorVasePreset01.preset
+    - Assets/FlatKit/PresetsShared/Presets/TwoColorVasePreset01.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/TwoColorVasePreset02.preset
+    - Assets/FlatKit/PresetsShared/Presets/TwoColorVasePreset02.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/TwoColorVasePreset03.preset
+    - Assets/FlatKit/PresetsShared/Presets/TwoColorVasePreset03.preset.meta
+    - Assets/FlatKit/PresetsShared/Presets/WhiteWithBlackRim__StylSurf_Single_Spec_Rim.preset
+    - Assets/FlatKit/PresetsShared/Presets/WhiteWithBlackRim__StylSurf_Single_Spec_Rim.preset.meta
+    - Assets/FlatKit/[Readme].asset
+    - Assets/FlatKit/[Readme].asset.meta
+    - Assets/FlatKit/[Render Pipeline] Built-In.unitypackage
+    - Assets/FlatKit/[Render Pipeline] Built-In.unitypackage.meta
+    - Assets/_game/Animation/Camera Holder.controller
+    - Assets/_game/Animation/Camera Holder.controller.meta
+    - Assets/_game/Animation/Gun Recoil.anim
+    - Assets/_game/Animation/Gun Recoil.anim.meta
+    - Assets/_game/Animation/female_animation.controller
+    - Assets/_game/Animation/head_girl.controller
+    - Assets/_game/Animation/head_girl.controller.meta
+    - Assets/_game/Animation/new_head.anim
+    - Assets/_game/Animation/new_head.anim.meta
+    - Assets/_game/Female/HumanArmature_Female_Sitting.anim
+    - Assets/_game/Female/HumanArmature_Female_Sitting.anim.meta
+    - Assets/_game/Female/face.mat
+    - Assets/_game/Female_sitting.meta
+    - Assets/_game/Female_sitting/Head.controller
+    - Assets/_game/Female_sitting/Head.controller.meta
+    - Assets/_game/Female_sitting/Smooth_Female_Dress.fbx
+    - Assets/_game/Female_sitting/Smooth_Female_Dress.fbx.meta
+    - Assets/_game/Female_sitting/red_dress.mat
+    - Assets/_game/Female_sitting/red_dress.mat.meta
+    - Assets/_game/Female_sitting/rotate_head.anim
+    - Assets/_game/Female_sitting/rotate_head.anim.meta
+    - Assets/_game/Female_sitting/rotate_head_girl.anim
+    - Assets/_game/Female_sitting/rotate_head_girl.anim.meta
+    - Assets/_game/Head_Animation.meta
+    - Assets/_game/Head_Animation/head.anim
+    - Assets/_game/Head_Animation/head.anim.meta
+    - Assets/_game/Male/black.mat
+    - Assets/_game/Male/face.mat
+    - Assets/_game/Materials/red.mat
+    - Assets/_game/Materials/wallroom2.mat
+    - Assets/_game/Materials/wallroom2.mat.meta
+    - Assets/_game/Materials/walls2_yellow.mat
+    - Assets/_game/Materials/white.mat
+    - Assets/_game/Materials/white_toon.mat
+    - Assets/_game/Materials/yellow_lamp.mat
+    - Assets/_game/Scenes/SampleScene.unity
+    - Assets/_game/Scenes/Test_Scene.unity
+    - Assets/_game/Scenes/Test_Scene.unity.meta
+    - Assets/_game/Scenes/room 2.unity
+    - Assets/_game/Scenes/room 2.unity.meta
+    - Assets/_game/Scenes/room.unity
+    - Assets/_game/Scripts/Aiming.cs
+    - Assets/_game/Scripts/InputManager.cs
+    - Assets/_game/Scripts/InputManager.cs.meta
+    - Assets/_game/Scripts/TouchControls.cs
+    - Assets/_game/Scripts/TouchControls.cs.meta
+    - Assets/_game/Scripts/TouchControls.inputactions
+    - Assets/_game/Scripts/TouchControls.inputactions.meta
+    - Assets/_game/Skeleton_animation.meta
+    - Assets/_game/Skeleton_animation/skeleton_head.anim
+    - Assets/_game/Skeleton_animation/skeleton_head.anim.meta
+    - Assets/_game/Skeleton_animation/spine_004.controller
+    - Assets/_game/Skeleton_animation/spine_004.controller.meta
+    - Assets/_game/room2_Mat.meta
+    - Assets/_game/room2_Mat/red.mat
+    - Assets/_game/room2_Mat/red.mat.meta
+    - Assets/_game/room2_Mat/waals.mat
+    - Assets/_game/room2_Mat/waals.mat.meta
+    - Assets/_game/room2_Mat/walls2_yellow 1.mat
+    - Assets/_game/room2_Mat/walls2_yellow 1.mat.meta
+    - Assets/_game/room2_Mat/white_toon 1.mat
+    - Assets/_game/room2_Mat/white_toon 1.mat.meta
+    - Assets/_game/room2_Mat/white_wall 1.mat
+    - Assets/_game/room2_Mat/white_wall 1.mat.meta
+    - Assets/_game/room2_Mat/white_wall 2.mat
+    - Assets/_game/room2_Mat/white_wall 2.mat.meta
+    - Assets/_game/room2_Mat/wood.mat
+    - Assets/_game/room2_Mat/wood.mat.meta
+    - Assets/_game/shader/ToonShaderFile-main/white_wall.mat
+    - Assets/movehead.cs
+    - Assets/movehead.cs.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/ProjectSettings.asset
+    - 
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
