@@ -202,6 +202,17 @@ MonoBehaviour:
     - Assets/_game/Skeleton_animation/skeleton_head.anim.meta
     - Assets/_game/Skeleton_animation/spine_004.controller
     - Assets/_game/Skeleton_animation/spine_004.controller.meta
+    - Assets/_game/new_male_animtion.meta
+    - Assets/_game/new_male_animtion/violet_scene.meta
+    - Assets/_game/new_male_animtion/violet_scene/ManStanding.cs
+    - Assets/_game/new_male_animtion/violet_scene/ManStanding.cs.meta
+    - Assets/_game/new_male_animtion/violet_scene/male1.controller
+    - Assets/_game/new_male_animtion/violet_scene/male1.controller.meta
+    - Assets/_game/new_male_animtion/violet_scene/new_gun.mat
+    - Assets/_game/new_male_animtion/violet_scene/new_gun.mat.meta
+    - Assets/_game/new_skeleton.meta
+    - Assets/_game/new_skeleton/_keleton.fbx
+    - Assets/_game/new_skeleton/_keleton.fbx.meta
     - Assets/_game/rifle_animation.meta
     - Assets/_game/rifle_animation/rifle.anim
     - Assets/_game/rifle_animation/rifle.anim.meta
@@ -230,7 +241,7 @@ MonoBehaviour:
     - ProjectSettings/EditorSettings.asset
     - ProjectSettings/ProjectSettings.asset
     - 
-    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
