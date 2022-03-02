@@ -18,6 +18,7 @@ public class ManStanding : MonoBehaviour
     {
         if(val == 1){
         	man.Play("HumanArmature|Man_Idle");
+        	Skeleton.Play("Sitting Idle");
         }else if(val == 2){
         	man.Play("HumanArmature|Man_Walk");
         	Skeleton.Play("Walking");
