@@ -167,6 +167,27 @@ MonoBehaviour:
     - Assets/_game/Head_Animation.meta
     - Assets/_game/Head_Animation/head.anim
     - Assets/_game/Head_Animation/head.anim.meta
+    - Assets/_game/Help.meta
+    - Assets/_game/Help/Help.mat
+    - Assets/_game/Help/Help.mat.meta
+    - Assets/_game/Help/Help1 1.controller
+    - Assets/_game/Help/Help1 1.controller.meta
+    - Assets/_game/Help/Help1.controller
+    - Assets/_game/Help/Help1.controller.meta
+    - Assets/_game/Help/Help_animation.anim
+    - Assets/_game/Help/Help_animation.anim.meta
+    - Assets/_game/Help/Help_animation2.anim
+    - Assets/_game/Help/Help_animation2.anim.meta
+    - Assets/_game/Help/Help_animation3.anim
+    - Assets/_game/Help/Help_animation3.anim.meta
+    - Assets/_game/Help/Help_red.png
+    - Assets/_game/Help/Help_red.png.meta
+    - Assets/_game/Help/_ELP!.png
+    - Assets/_game/Help/_ELP!.png.meta
+    - Assets/_game/Help/_ELP!_green.png
+    - Assets/_game/Help/_ELP!_green.png.meta
+    - Assets/_game/Help/help.png
+    - Assets/_game/Help/help.png.meta
     - Assets/_game/Male/Male_Anim.cs
     - Assets/_game/Male/Male_Anim.cs.meta
     - Assets/_game/Male/_ale_Suit.fbx.meta
@@ -247,7 +268,7 @@ MonoBehaviour:
     - ProjectSettings/EditorSettings.asset
     - ProjectSettings/ProjectSettings.asset
     - 
-    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
